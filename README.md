@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Front_End-Development
+## 👉 Front_End-Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,12 +22,12 @@
 ![Express](https://img.shields.io/badge/express-5DADE2?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-E74C3C?style=for-the-badge&logo=angular&logoColor=white)
 
-## Backend_End-Development
+## 👉 Backend_End-Development
 ![NodeJS](https://img.shields.io/badge/nodejs-1D8348?style=for-the-badge&logo=node.js&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/Mongodb-17202A?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
 
-## Version Controls
+## 👉 Version Controls
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -39,7 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## OS
+## 👉 OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -47,10 +47,10 @@
 
 
 <h2>Github Streak:</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamemustufa&" alt="ghulamemustufa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaabduljabbar&" alt="usamaabduljabbar" /></p>
 
 <h2>My Stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghulamemustufa&show_icons=true&locale=en" alt="ghulamemustufa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaabduljabbar&show_icons=true&locale=en" alt="usamaabduljabbar" /></p>
 
 <h2>My Contributions:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamemustufa&show_icons=true&locale=en&layout=compact" alt="ghulamemustufa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaabduljabbar&show_icons=true&locale=en&layout=compact" alt="usamaabduljabbar" /></p>
